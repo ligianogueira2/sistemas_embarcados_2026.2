@@ -14,7 +14,7 @@
 <br>
 
 <div align="center">
-<h4> | <a href="#contexto">Contexto</a> | <a href="#atividades">Atividades</a> | <a href="#arquivos">Estrutura</a> | <a href="#ferramentas">Ferramentas</a> | <a href="#creditos">Créditos</a> |</h4>
+<h4> | <a href="#contexto">Contexto</a> | <a href="#atividades">Atividades</a> | <a href="#ferramentas">Ferramentas</a> | <a href="#creditos">Créditos</a> |</h4>
 </div>
 
 <a href="https://imgbox.com/3tZuCnVg" target="_blank"><img src="https://images2.imgbox.com/42/88/3tZuCnVg_o.png" alt="divisor" height="5px" width="100%"/></a>
@@ -31,15 +31,10 @@
 <summary><b>Atividade 1: Diagramas em Bloco e Esquemático</b></summary> 
 <br>
 
-* 📄 **Documentação (PDF):** [Relatório da Atividade 1](./atividades/atvd_1/relatorio.pdf)
-* ⚙️ **Configuração Wokwi:** [`diagram.json`](./atividades/atvd_1/diagram.json)
-* 💻 **Código-Fonte:** [`main.cpp`](./atividades/atvd_1/main.cpp)
-* 🖼️ **Esquemáticos / Diagramas:**
+* 📄 **Documentação (PDF):** [Relatório da Atividade 1](./atividade_1_diagramas_bloco_esquematico/atvd1_relatorio.pdf)
+* ⚙️ **Diagrama em Blocos:** [`Diagrama em Blocos`](./atividade_1_diagramas_bloco_esquematico/atvd1_diagrama_blocos.png)
+* 💻 **Diagrama Esquemático** [`Diagrama Esquemático`](./atividade_1_diagramas_bloco_esquematico/atvd1_diagrama_esquematico.png)
   <br><br>
-  <p align="center">
-    <img src="atividades/atvd_1/diagrama_blocos.png" alt="Diagrama de Blocos" width="400"/>
-    <img src="atividades/atvd_1/diagrama_circuito.png" alt="Diagrama do Circuito" width="400"/>
-  </p>
 </details>
 
 <details>
@@ -47,38 +42,31 @@
 <br>
 Validação de ferramentas realizada em sala de aula.
   <br><br>
-  <p align="center">
-  </p>
 </details>
 
 <details>
 <summary><b>Atividade 3: Saídas digitais (Simulador)</b></summary>
 <br>
 
-* 📄 **Documentação (PDF):** [Relatório da Atividade 3](./atividades/atvd_3/relatorio.pdf)
-* ⚙️ **Configuração Wokwi:** [`diagram.json`](./atividades/atvd_3/diagram.json)
-* 💻 **Código-Fonte:** [`main.cpp`](./atividades/atvd_3/main.cpp)
-* 🖼️ **Esquemáticos / Diagramas:**
-  <br><br>
-  <p align="center">
-    <img src="atividades/atvd_3/diagrama_1.png" alt="Diagrama 1" width="400"/>
-    <img src="atividades/atvd_3/diagrama_2.png" alt="Diagrama 2" width="400"/>
-  </p>
+* 📄 **Documentação (PDF):** [Relatório da Atividade 3](./atividade_3_saidas_digitais/atvd3_relatorio.pdf)
+* 💻 **Código-Fonte:** [`main.cpp`](./atividade_3_saidas_digitais/main.cpp)
+* ⚙️ **Configuração Wokwi:** [`diagram.json`](./atividade_3_saidas_digitais/diagram.json)
+* 📲 **Montagem Circuito:** [`Circuito`](./atividade_3_saidas_digitais/atvd4_circuito_wowki.png)
+* 🖼️ **Diagrama em Blocos:** [`Diagrama em Blocos`](./atividade_3_saidas_digitais/atvd3_diagrama_blocos.png)
+* 🖼️ **Diagrama Esquemático:** [`Diagrama Esquemático`](./atividade_3_saidas_digitais/atvd3_diagrama_esquematico.png)
+<br><br>
 </details>
 
 <details>
 <summary><b>Atividade 4: Entradas digitais (Simulador)</b></summary> 
 <br>
 
-* 📄 **Documentação (PDF):** [Relatório da Atividade 1](./atividades/atvd_1/relatorio.pdf)
-* ⚙️ **Configuração Wokwi:** [`diagram.json`](./atividades/atvd_1/diagram.json)
-* 💻 **Código-Fonte:** [`main.cpp`](./atividades/atvd_1/main.cpp)
-* 🖼️ **Esquemáticos / Diagramas:**
-  <br><br>
-  <p align="center">
-    <img src="atividades/atvd_1/diagrama_blocos.png" alt="Diagrama de Blocos" width="400"/>
-    <img src="atividades/atvd_1/diagrama_circuito.png" alt="Diagrama do Circuito" width="400"/>
-  </p>
+* 💻 **Código-Fonte:** [`main.cpp`](./atividade_4_entradas_digitais/main.cpp)
+* ⚙️ **Configuração Wokwi:** [`diagram.json`](./atividade_4_entradas_digitais/diagram.json)
+* 📲 **Montagem Circuito:** [`Circuito`](./atividade_4_entradas_digitais/atvd4_circuito_wowki.png)
+* 🖼️ **Diagrama em Blocos:** [`Diagrama em Blocos`](./atividade_4_entradas_digitais/atvd4_diagrama_blocos.png)
+* 🖼️ **Diagrama Esquemático:** [`Diagrama Esquemático`](./atividade_4_entradas_digitais/atvd4_diagrama_esquematico.png)
+<br><br>
 </details>
 
 <a href="https://imgbox.com/3tZuCnVg" target="_blank"><img src="https://images2.imgbox.com/42/88/3tZuCnVg_o.png" alt="divisor" height="5px" width="100%"/></a>
