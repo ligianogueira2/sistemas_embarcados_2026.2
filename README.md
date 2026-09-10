@@ -1,8 +1,6 @@
-# Atividades - Sistemas Embarcados (2026.2)
-
 <h1 align="center"> Sistemas Embarcados 2026.2 </h1>
 <p align="center"> 
-<img src="images/se.jfif" alt="Imagem SE"/>
+<img src="src/img/se.jfif" alt="Imagem SE" width="600" height="300" />
 </p>
 <h4 align="center"> Repositório de Atividades - Disciplina de Sistemas Embarcados 2026.2 </h4>
 <h4 align="center"> Engenharia de Computação/<a href="https://www.ifpb.edu.br/">IFPB</a> (ago - dez 2026) </h4>
@@ -30,7 +28,7 @@
 <h2 id="atividades"> 📑 ATIVIDADES DESENVOLVIDAS</h2>
 
 <details>
-<summary><b>Atividade 1: Apresentação da Plataforma e Setup</b></summary>
+<summary><b>Atividade 1: Diagramas em Bloco e Esquemático</b></summary> 
 <br>
 
 * 📄 **Documentação (PDF):** [Relatório da Atividade 1](./atividades/atvd_1/relatorio.pdf)
@@ -45,22 +43,16 @@
 </details>
 
 <details>
-<summary><b>Atividade 2: Leitura Digital e Entradas</b></summary>
+<summary><b>Atividade 2: Validação do Ambiente de Desenvolvimento (Espressif IDE)</b></summary>
 <br>
-
-* 📄 **Documentação (PDF):** [Relatório da Atividade 2](./atividades/atvd_2/relatorio.pdf)
-* ⚙️ **Configuração Wokwi:** [`diagram.json`](./atividades/atvd_2/diagram.json)
-* 💻 **Código-Fonte:** [`main.cpp`](./atividades/atvd_2/main.cpp)
-* 🖼️ **Esquemáticos / Diagramas:**
+Validação de ferramentas realizada em sala de aula.
   <br><br>
   <p align="center">
-    <img src="atividades/atvd_2/diagrama_blocos.png" alt="Diagrama de Blocos" width="400"/>
-    <img src="atividades/atvd_2/diagrama_circuito.png" alt="Diagrama do Circuito" width="400"/>
   </p>
 </details>
 
 <details>
-<summary><b>Atividade 3: Controle de Saída Digital com ESP32</b></summary>
+<summary><b>Atividade 3: Saídas digitais (Simulador)</b></summary>
 <br>
 
 * 📄 **Documentação (PDF):** [Relatório da Atividade 3](./atividades/atvd_3/relatorio.pdf)
@@ -74,15 +66,20 @@
   </p>
 </details>
 
-<a href="https://imgbox.com/3tZuCnVg" target="_blank"><img src="https://images2.imgbox.com/42/88/3tZuCnVg_o.png" alt="divisor" height="5px" width="100%"/></a>
+<details>
+<summary><b>Atividade 4: Entradas digitais (Simulador)</b></summary> 
+<br>
 
-<h2 id="arquivos"> 🗂️ ESTRUTURA DO REPOSITÓRIO</h2>
-
-* **`src/`**: Arquivos de código-fonte (`.cpp` / `.ino`) das práticas.
-* **`include/`**: Arquivos de cabeçalho (`.h`) e definições auxiliares.
-* **`images/`**: Imagens, diagramas de montagem e capturas do simulador.
-* **`diagram.json`**: Configuração de conexões e componentes do Wokwi.
-* **`README.md`**: Documentação geral do repositório.
+* 📄 **Documentação (PDF):** [Relatório da Atividade 1](./atividades/atvd_1/relatorio.pdf)
+* ⚙️ **Configuração Wokwi:** [`diagram.json`](./atividades/atvd_1/diagram.json)
+* 💻 **Código-Fonte:** [`main.cpp`](./atividades/atvd_1/main.cpp)
+* 🖼️ **Esquemáticos / Diagramas:**
+  <br><br>
+  <p align="center">
+    <img src="atividades/atvd_1/diagrama_blocos.png" alt="Diagrama de Blocos" width="400"/>
+    <img src="atividades/atvd_1/diagrama_circuito.png" alt="Diagrama do Circuito" width="400"/>
+  </p>
+</details>
 
 <a href="https://imgbox.com/3tZuCnVg" target="_blank"><img src="https://images2.imgbox.com/42/88/3tZuCnVg_o.png" alt="divisor" height="5px" width="100%"/></a>
 
