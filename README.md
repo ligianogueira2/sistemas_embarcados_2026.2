@@ -17,13 +17,17 @@
 <h4> | <a href="#contexto">Contexto</a> | <a href="#atividades">Atividades</a> | <a href="#ferramentas">Ferramentas</a> | <a href="#creditos">Créditos</a> |</h4>
 </div>
 
-<a href="https://imgbox.com/3tZuCnVg" target="_blank"><img src="https://images2.imgbox.com/42/88/3tZuCnVg_o.png" alt="divisor" height="5px" width="100%"/></a>
+<p align="center">
+  <img src="./src/img/fundo.png" alt="divisor" width="100%" height="5px">
+</p>
 
 <h2 id="contexto"> 🧠 CONTEXTO E OBJETIVO</h2>
 
 <p>Este repositório reúne as atividades, práticas e códigos desenvolvidos durante a disciplina de <b>Sistemas Embarcados</b> do curso de Engenharia de Computação (IFPB). O foco principal abrange a programação do microcontrolador <b>ESP32</b>, simulação de circuitos via <b>Wokwi</b>, manipulação de GPIOs, temporizadores e comunicação com periféricos digitais e analógicos.</p>
 
-<a href="https://imgbox.com/3tZuCnVg" target="_blank"><img src="https://images2.imgbox.com/42/88/3tZuCnVg_o.png" alt="divisor" height="5px" width="100%"/></a>
+<p align="center">
+  <img src="./src/img/fundo.png" alt="divisor" width="100%" height="5px">
+</p>
 
 <h2 id="atividades"> 📑 ATIVIDADES DESENVOLVIDAS</h2>
 
@@ -49,9 +53,9 @@ Validação de ferramentas realizada em sala de aula.
 <br>
 
 * 📄 **Documentação (PDF):** [Relatório da Atividade 3](./atividade_3_saidas_digitais/atvd3_relatorio.pdf)
-* 💻 **Código-Fonte:** [`main.cpp`](./atividade_3_saidas_digitais/main.cpp)
+* 💻 **Código-Fonte:** [`main.cpp`](./atividade_3_saidas_digitais/main.c)
 * ⚙️ **Configuração Wokwi:** [`diagram.json`](./atividade_3_saidas_digitais/diagram.json)
-* 📲 **Montagem Circuito:** [`Circuito`](./atividade_3_saidas_digitais/atvd4_circuito_wowki.png)
+* 📲 **Montagem Circuito:** [`Circuito`](./atividade_3_saidas_digitais\atvd3_circuito_wowki.png)
 * 🖼️ **Diagrama em Blocos:** [`Diagrama em Blocos`](./atividade_3_saidas_digitais/atvd3_diagrama_blocos.png)
 * 🖼️ **Diagrama Esquemático:** [`Diagrama Esquemático`](./atividade_3_saidas_digitais/atvd3_diagrama_esquematico.png)
 <br><br>
@@ -61,15 +65,17 @@ Validação de ferramentas realizada em sala de aula.
 <summary><b>Atividade 4: Entradas digitais (Simulador)</b></summary> 
 <br>
 
-* 💻 **Código-Fonte:** [`main.cpp`](./atividade_4_entradas_digitais/main.cpp)
+* 💻 **Código-Fonte:** [`main.cpp`](./atividade_4_entradas_digitais/main.c)
 * ⚙️ **Configuração Wokwi:** [`diagram.json`](./atividade_4_entradas_digitais/diagram.json)
-* 📲 **Montagem Circuito:** [`Circuito`](./atividade_4_entradas_digitais/atvd4_circuito_wowki.png)
+* 📲 **Montagem Circuito:** [`Circuito`](./atividade_4_entradas_digitais\atvd4_circuito_wowki.png)
 * 🖼️ **Diagrama em Blocos:** [`Diagrama em Blocos`](./atividade_4_entradas_digitais/atvd4_diagrama_blocos.png)
 * 🖼️ **Diagrama Esquemático:** [`Diagrama Esquemático`](./atividade_4_entradas_digitais/atvd4_diagrama_esquematico.png)
 <br><br>
 </details>
 
-<a href="https://imgbox.com/3tZuCnVg" target="_blank"><img src="https://images2.imgbox.com/42/88/3tZuCnVg_o.png" alt="divisor" height="5px" width="100%"/></a>
+<p align="center">
+  <img src="./src/img/fundo.png" alt="divisor" width="100%" height="5px">
+</p>
 
 <h2 id="ferramentas"> 🛠️ FERRAMENTAS UTILIZADAS</h2>
 
@@ -78,7 +84,9 @@ Validação de ferramentas realizada em sala de aula.
 * **Simulador:** Wokwi Simulator
 * **IDE & Ferramentas:** VS Code / Easy EDA / PlantUML 
 
-<a href="https://imgbox.com/3tZuCnVg" target="_blank"><img src="https://images2.imgbox.com/42/88/3tZuCnVg_o.png" alt="divisor" height="5px" width="100%"/></a>
+<p align="center">
+  <img src="./src/img/fundo.png" alt="divisor" width="100%" height="5px">
+</p>
 
 <h2 id="creditos"> ⭐️ CRÉDITOS</h2>
 
