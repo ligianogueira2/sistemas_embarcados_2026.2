@@ -54,10 +54,9 @@ Validação de ferramentas realizada em sala de aula.
 
 * 📄 **Documentação (PDF):** [Relatório da Atividade 3](./atividade_3_saidas_digitais/atvd3_relatorio.pdf)
 * 💻 **Código-Fonte:** [`main.c`](./atividade_3_saidas_digitais/main.c)
-* ⚙️ **Config simulador** [`diagram.json`](./atividade_3_saidas_digitais/diagram.json)
-* 📲 **Download simulador:** [`Circuito`](./atividade_3_saidas_digitais\wokwi-project.txt)
-* 📲 **Montagem simulador:** [`Circuito`](./atividade_3_saidas_digitais\atvd3_circuito_wowki.png)
-* 📲 **Montagem Circuito:** [`Circuito`](./atividade_3_saidas_digitais\teste.png)
+* ⚙️ **Configuração simulador** [`diagram.json`](./atividade_3_saidas_digitais/diagram.json)
+* ⬇️ **Download simulador:** [`Download`](./atividade_3_saidas_digitais\wokwi-project.txt)
+* 📲 **Montagem simulador:** [`Circuito`](./atividade_3_saidas_digitais\atvd3_circuito_wokwi.png)
 * 🖼️ **Diagrama em Blocos:** [`Diagrama em Blocos`](./atividade_3_saidas_digitais/atvd3_diagrama_blocos.png)
 * 🖼️ **Diagrama Esquemático:** [`Diagrama Esquemático`](./atividade_3_saidas_digitais/atvd3_diagrama_esquematico.png)
 <br><br>
@@ -69,7 +68,8 @@ Validação de ferramentas realizada em sala de aula.
 
 * 💻 **Código-Fonte:** [`main.c`](./atividade_4_entradas_digitais/main.c)
 * ⚙️ **Configuração Wokwi:** [`diagram.json`](./atividade_4_entradas_digitais/diagram.json)
-* 📲 **Montagem Circuito:** [`Circuito`](./atividade_4_entradas_digitais\atvd4_circuito_wowki.png)
+* ⬇️ **Download simulador:** [`Download`](./atividade_4_entradas_digitais\wokwi-project.txt)
+* 📲 **Montagem Circuito:** [`Circuito`](./atividade_4_entradas_digitais\atvd4_circuito_wokwi.png)
 * 🖼️ **Diagrama em Blocos:** [`Diagrama em Blocos`](./atividade_4_entradas_digitais/atvd4_diagrama_blocos.png)
 * 🖼️ **Diagrama Esquemático:** [`Diagrama Esquemático`](./atividade_4_entradas_digitais/atvd4_diagrama_esquematico.png)
 <br><br>
