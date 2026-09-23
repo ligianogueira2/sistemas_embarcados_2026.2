@@ -75,6 +75,19 @@ Validação de ferramentas realizada em sala de aula.
 <br><br>
 </details>
 
+<details>
+<summary><b>Atividade 5: PWM (Simulador)</b></summary> 
+<br>
+
+* 💻 **Código-Fonte:** [`main.c`](./atividade_5_pwm/main.c)
+* ⚙️ **Configuração Wokwi:** [`diagram.json`](./atividade_5_pwm/diagram.json)
+* ⬇️ **Download simulador:** [`Download`](./atividade_5_pwm\wokwi-project.txt)
+* 📲 **Montagem Circuito:** [`Circuito`](./atividade_5_pwm\atvd5_circuito_wokwi.png)
+* 🖼️ **Diagrama em Blocos:** [`Diagrama em Blocos`](./atividade_5_pwm/atvd5_diagrama_blocos.png)
+* 🖼️ **Diagrama Esquemático:** [`Diagrama Esquemático`](./atividade_5_pwm/atvd5_diagrama_esquematico.png)
+<br><br>
+</details>
+
 <p align="center">
   <img src="./src/img/fundo.png" alt="divisor" width="100%" height="5px">
 </p>
