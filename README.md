@@ -88,6 +88,22 @@ Validação de ferramentas realizada em sala de aula.
 <br><br>
 </details>
 
+<details>
+<summary><b>Atividade 6: GPIO e Temporizadores (Prática) </b></summary> 
+<br>
+
+* 💻 **Código-Fonte:** [`main.c`](./atividade_6_gpio_temporizadores/main.c)
+<br><br>
+</details>
+
+<details>
+<summary><b>Atividade 7: Interrupções (Prática) </b></summary> 
+<br>
+
+* 💻 **Código-Fonte:** [`main.c`](./atividade_7_interrupcoes/main.c)
+<br><br>
+</details>
+
 <p align="center">
   <img src="./src/img/fundo.png" alt="divisor" width="100%" height="5px">
 </p>
