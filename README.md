@@ -104,6 +104,14 @@ Validação de ferramentas realizada em sala de aula.
 <br><br>
 </details>
 
+<details>
+<summary><b>Atividade 8: Comunicação Serial (Prática) </b></summary> 
+<br>
+
+* 💻 **Código-Fonte:** [`main.c`](./atividade_8_comunicacao_serial/main.c)
+<br><br>
+</details>
+
 <p align="center">
   <img src="./src/img/fundo.png" alt="divisor" width="100%" height="5px">
 </p>
