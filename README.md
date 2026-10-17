@@ -112,10 +112,6 @@ Validação de ferramentas realizada em sala de aula.
 <br><br>
 </details>
 
-<p align="center">
-  <img src="./src/img/fundo.png" alt="divisor" width="100%" height="5px">
-</p>
-
 <details>
 <summary><b>Atividade 9: ADC (Prática) </b></summary> 
 <br>
