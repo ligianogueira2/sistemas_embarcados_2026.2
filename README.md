@@ -117,6 +117,7 @@ Validação de ferramentas realizada em sala de aula.
 <br>
 
 * 🖼️ **Diagrama Esquemático:** [`Diagrama Esquemático`](./atividade_9_adc/atvd9_diagrama_esquematico.png)
+* ⚙️ **Parâmetros de Configuração dos Periféricos:** [`parametros.txt`](./atividade_9_adc/parametros_configuracao_perifericos.txt)
 * 💻 **Código-Fonte:** [`main.c`](./atividade_9_adc/main.c)
 <br><br>
 </details>

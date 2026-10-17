@@ -1,0 +1,25 @@
+1.	PARÂMETROS DE CONFIGURAÇÃO DOS PERIFÉRICOS
+
+1.1 Conversor Analógico-Digital (ADC)
+O conversor analógico-digital (ADC) do ESP32 foi configurado para realizar a leitura da tensão fornecida pelo potenciômetro, utilizando os seguintes parâmetros:
+•	Atenuação: ADC_ATTEN_DB_12, permitindo a leitura de tensões de entrada de até aproximadamente 3,3 V, conforme as características do dispositivo.
+•	Resolução: ADC_BITWIDTH_12, correspondente a 12 bits, possibilitando valores digitais brutos na faixa de 0 a 4095.
+
+1.2 Modulação por Largura de Pulso (LEDC/PWM)
+O periférico LEDC foi configurado para controlar o brilho do LED de acordo com a posição do potenciômetro. Os parâmetros utilizados são:
+•	Frequência do PWM: 5 kHz (5000 Hz).
+•	Resolução do Duty Cycle: LEDC_TIMER_10_BIT, correspondente a 10 bits, permitindo valores de ajuste entre 0 e 1023.
+Dessa forma, o valor lido pelo ADC é escalonado proporcionalmente para a faixa de valores do PWM, possibilitando o controle gradual do brilho do LED.
+
+2.	EQUAÇÃO DE CONVERSÃO DO ADC PARA MILIVOLTS
+Para estimar a tensão de entrada a partir do valor digital obtido pelo ADC, utiliza-se uma relação linear entre o valor bruto da conversão e a tensão máxima considerada.
+A equação utilizada é:
+
+V(mV) = (Vraw × 3300) / 4095
+
+Em que:
+•	Vraw: valor bruto obtido na leitura do ADC, variando de 0 a 4095.
+•	3300: tensão máxima considerada para a conversão, expressa em milivolts (3,3 V).
+•	4095: valor digital máximo correspondente à resolução de 12 bits do ADC (2¹² − 1).
+•	V(mV): tensão estimada na entrada, expressa em milivolts, variando teoricamente de 0 a 3300 mV.
+A conversão é realizada dinamicamente pelo firmware, permitindo acompanhar a variação da tensão aplicada ao pino analógico do ESP32. É importante ressaltar que essa equação fornece uma estimativa linear; para maior precisão, podem ser consideradas as características de calibração do ADC.
