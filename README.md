@@ -116,6 +116,19 @@ Validação de ferramentas realizada em sala de aula.
   <img src="./src/img/fundo.png" alt="divisor" width="100%" height="5px">
 </p>
 
+<details>
+<summary><b>Atividade 9: ADC (Prática) </b></summary> 
+<br>
+
+* 🖼️ **Diagrama Esquemático:** [`Diagrama Esquemático`](./atividade_9_adc/atvd9_diagrama_esquematico.png)
+* 💻 **Código-Fonte:** [`main.c`](./atividade_9_adc/main.c)
+<br><br>
+</details>
+
+<p align="center">
+  <img src="./src/img/fundo.png" alt="divisor" width="100%" height="5px">
+</p>
+
 <h2 id="ferramentas"> 🛠️ FERRAMENTAS UTILIZADAS</h2>
 
 * **Microcontrolador:** ESP32S3
